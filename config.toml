@@ -32,7 +32,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
     tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
 
     # Enable "Social" widget, if any of "social_*" set a value
-    social_facebook = "https://www.facebook.com/panjabiskolenorge/"
+    social_facebook = "panjabiskolenorge"
     social_email = "info@panjabiskolenorge.no"
     #social_twitter = "username"
     #social_linkedin = "username"
