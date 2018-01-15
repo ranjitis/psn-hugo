@@ -7,13 +7,13 @@ disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
-    name = "John Doe"
-    bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+    name = "info@panjabiskolenorge.no"
+    bio = ""
     avatar = "img/avatar.png"
 
 [Params]
     subtitle = "Kultur og Språk" # Subtitle of your site. Used in site header
-    description = " John Doe's Personal blog about everything" # Description of your site. Used in meta description
+    description = "Panjabi Skole Norge morsmålsskole" # Description of your site. Used in meta description
     opengraph = true # Enable OpenGraph if true
     readmore = true # Show "Read more" button in list if true
     leftsidebar = false # Move sidebar to the left side if true
@@ -32,8 +32,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
     tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
 
     # Enable "Social" widget, if any of "social_*" set a value
-    social_facebook = "username"
+    social_facebook = "https://www.facebook.com/panjabiskolenorge/"
+    social_email = "info@panjabiskolenorge.no"
     #social_twitter = "username"
     #social_linkedin = "username"
     #social_github = "username"
-    social_email = "info@panjabiskolenorge.no"
