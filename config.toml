@@ -34,6 +34,6 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
     # Enable "Social" widget, if any of "social_*" set a value
     social_facebook = "panjabiskolenorge"
     social_email = "info@panjabiskolenorge.no"
-    social_twitter = "username"
+    #social_twitter = "username"
     #social_linkedin = "username"
     #social_github = "username"
